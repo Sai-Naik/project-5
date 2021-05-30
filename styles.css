@@ -1,0 +1,39 @@
+span{
+    box-sizing: border-box;
+    float: left;
+    width: 50%;
+}
+.c1{
+    text-align: center;
+}
+.c2{
+    text-align: left;
+}
+.c3{
+    text-align: center;
+}
+.c5{
+    border: 2px solid violet;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 1px;
+}
+.c6{
+    padding-bottom: 10px;
+}
+.c4{
+    background-color: teal;
+    height: 50vh;
+    border: 0;
+    margin: 0;
+    width: 100vw;
+}
+.c12{
+    margin-top: 0;
+    border-top: 0;
+}
+.adds{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    justify-content: center;
+}
